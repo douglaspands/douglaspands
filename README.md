@@ -6,7 +6,7 @@ Sou um entusiasta na area de tecnologia e desenvolvedor de software. Meu forte �
 No meu repositório tem alguns exercicios e projetos particulares em varias tecnologias.
 
 ## SKILLS
--  ⚡  Python: Django, Flask, SQLAlchemy, Graphene, Jinja2, PonyORM, Sanic, FastAPI, Pytest, Coverage, Celery e Behave
+-  ⚡  Python: Django, Flask, SQLAlchemy, Graphene, Jinja2, PonyORM, Sanic, FastAPI, Pytest, Coverage, Celery, Behave, BeautifulSoup4 e Selenium
 -  ⚡  Node (ECMAScript/Typescript): Express, Restify, Apollo Server, Mocha, Jest, istanbuljs/nyc e Cucumber
 -  ⚡  Web: HTML, CSS, ECMAScript, Bootstrap e Lodash
 -  ⚡  Banco de Dados SQL: Postgre e MySQL
